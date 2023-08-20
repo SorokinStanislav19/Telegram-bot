@@ -1,0 +1,27 @@
+# created by virtualenv automatically
+# virtualenv
+.venv
+venv/
+ENV/
+
+# JetBrains
+.idea/
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+venv/Lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
